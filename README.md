@@ -1,12 +1,12 @@
-# Softwareentwicklung SoSe2022 - Aufgabe 00
+# Softwareentwicklung SoSe2023 - Aufgabe 00
 
 In dieser Übung sollen Sie sich die verschiedenen Möglichkeiten der Erstellung von C# Programmen erarbeiten und diese evaluieren. Dabei sollen Sie verschiedene Editorkonzepte ausprobieren und im Hinblick auf Ihre Anforderungen testen. Verwenden Sie die von Ihnen ausgewählte Toolchain zum Lösen der gestellten Aufgaben.
 
 ## Bearbeitungszeit
 
-SWE: 2. Mai - 6. Mai 2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 1. Mai - 5. Mai 2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
-Einführung in SWE: 25. April - 6. Mai 2022 (KGB, BENG, VTC, MB)
+Einführung in SWE: 1. Mail - 12. Mai 2023 (KGB, BENG, VTC, MB)
 
 ## 1. Wahl der Werkzeuge
 
@@ -18,11 +18,11 @@ Um Ihnen eine Richtschnur zu geben, haben wir etwas vorgearbeitet:
 | ----------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Texteditor und Commandozeile        | Notepad++ und .NET                       | [Link](https://www.youtube.com/watch?v=LlTHXtKIb3E&list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80&index=2) |
 | Leichtgewichtige integrierte Lösung | Microsoft Visual Studio Code, Atom, Sublime Text, ... |  Vergleich von Atom und VSC [Link](https://t3n.de/news/code-editoren-atom-vs-code-1084775/), C# mit Visual Studio Code [Link](https://www.youtube.com/watch?v=rOzXt--TXLg)                                                                                                                                                                                          |
-| Schwergewichtige IDE                | Microsoft Visual Studio 2019, Eclipse, ...            |  Visual Studio Community Edition [Link](https://visualstudio.microsoft.com/de/vs/community/)                                                                                                                                                                                          |
+| Schwergewichtige IDE                | Microsoft Visual Studio 2022, Eclipse, ...            |  Visual Studio Community Edition [Link](https://visualstudio.microsoft.com/de/vs/community/)                                                                                                                                                                                          |
 
 > Wenn Sie Microsoft Visual Studio installiert haben, stehen Ihnen die Entwicklungsumgebung und alle Tools auf der Kommandozeile zur Verfügung. Das Video [https://www.youtube.com/watch?v=J1ysuX4lIhc](https://www.youtube.com/watch?v=J1ysuX4lIhc) erläutert, wie Sie die Pfade für den Compiler und die Ausführungsumgebung korrekt setzten. Übersehen Sie dabei die Werbung für kommerzielle Notepad++ Instanzen :-)
 
-> Kurze Installationsanleitungen zu Visual Studio Code inkl. C#-Extension und zu Visual Studio 2019 finden auch im OPAL im Verzeichnis Toolchains.
+> Kurze Installationsanleitung zu Visual Studio Code inkl. C#-Extension finden auch im OPAL im Verzeichnis Toolchains.
 
 **Obige Auflistung stellt kein Muss dar. Fühlen Sie sich frei eigene Editoren, Compiler und Ausführungsumgebungen zu verwenden!**
 
