@@ -64,7 +64,7 @@ und `NumberStyles.AllowDecimalPoint` oder `NumberStyles.Any` als `style`.
 
 Im Repository finden Sie die Datei `Temperatur.cs` , die ein fehlerhaftes Programm zur Umrechnung der Temperatur von Grad Celsius in Fahrenheit unter Verwendung der Formel:
 
-<img src="https://render.githubusercontent.com/render/math?math=5 \cdot (T_{Fahrenheit} - 32) = 9 \cdot T_{Celsius}">
+$5 \cdot (T_{Fahrenheit} - 32) = 9 \cdot T_{Celsius}$
 
 beinhaltet. Korrigieren Sie das Programm und führen Sie es aus.
 
@@ -81,13 +81,13 @@ double y = 4.0;
 
 Definieren Sie des Weiteren noch fehlende Variablen, berechnen Sie die Ausdrücke und geben Sie die Ergebnisse aus.
 
-<img src="https://render.githubusercontent.com/render/math?math=d=\frac{a}{b}">
+$d=\frac{a}{b}$
 
-<img src="https://render.githubusercontent.com/render/math?math=f=\frac{a+b}{c-y}-\frac{a}{b}">
+$f=\frac{a+b}{c-y}-\frac{a}{b}$
 
-<img src="https://render.githubusercontent.com/render/math?math=f=\frac{-b+\sqrt{b^2-4ac}}{2a}">
+$f=\frac{-b+\sqrt{b^2-4ac}}{2a}$
 
-<img src="https://render.githubusercontent.com/render/math?math=A = \pi r^2">
+$A = \pi r^2$
 
 **b) Boolsche und Vergleichsoperatoren**
 
